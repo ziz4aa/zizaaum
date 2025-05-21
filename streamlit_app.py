@@ -1,4 +1,4 @@
-aimport streamlit as st
+import streamlit as st
 
 st.title("zizaaum")
 st.write(
